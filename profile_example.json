@@ -1,0 +1,11 @@
+{
+    "base_instructions": [
+        "Answer in bullet points",
+        "Keep responses under 150 words"
+    ],
+    "tone_specific": {
+        "formal": ["Use professional language."],
+        "creative": ["Include imaginative comparisons."],
+        "informal": ["Feel free to use colloquial expressions."]
+    }
+}
